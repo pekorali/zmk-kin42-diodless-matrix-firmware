@@ -7,5 +7,5 @@
 #include "kin42.dtsi"
 
 &default_transform {
-    col-offset = <18>;
+    col-offset = <21>;
 };
