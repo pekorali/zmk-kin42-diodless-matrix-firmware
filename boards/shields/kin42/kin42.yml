@@ -1,0 +1,13 @@
+file_format: "1"
+id: cradio
+name: pekorali/zmk-kin42-diodless-matrix-firmware
+type: shield
+url: https://github.com/pekorali/zmk-kin42-diodless-matrix-firmware
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - studio
+siblings:
+  - kin42_left
+  - kin42_right
